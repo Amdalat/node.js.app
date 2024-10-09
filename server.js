@@ -16,7 +16,7 @@ app.get('/users', (req, res) => {
 });
 
 app.get('/', (req, res) => {
-    res.send('Welcome to our app')
+    res.send('Welcome to our')
 });
 
 app.get('/about', (req, res) => {
